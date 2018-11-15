@@ -1,0 +1,18 @@
+/* body {
+    background: rgb(0, 0, 0, 0.9)
+} */
+
+
+
+
+
+/* Global */
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Class */
+li.nav-link{
+    list-style-type: none;
+}
